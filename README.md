@@ -2,6 +2,16 @@
 
 A practical roadmap to transform traditional Customer Success into an AI-powered, scalable growth function.
 
+## 🔄 Roadmap Overview
+
+Customer Success Transformation Journey:
+
+Lead → Onboard → Adopt → Engage → Renew → Expand  
+                  ⬇  
+             AI + Automation Layer  
+                  ⬇  
+           Data → Insights → Action → Growth
+
 ---
 
 ## 🎯 Objective
@@ -76,6 +86,20 @@ To design a modern Customer Success model leveraging AI, automation, and data to
 - AI-enabled growth strategy  
 
 ---
+---
+
+## 📊 Real-World Application
+
+Example: Enterprise Cybersecurity Customer
+
+- Monitor product usage & adoption trends  
+- Identify drop in activity → trigger risk alert  
+- AI generates customer summary & recommended actions  
+- CSM engages with tailored strategy  
+- Improves retention and expansion opportunities  
+
+**Impact:**  
+Faster response · Proactive engagement · Better customer outcomes
 
 ## 👤 Author
 
